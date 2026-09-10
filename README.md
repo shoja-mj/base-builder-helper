@@ -1,5 +1,5 @@
 # base-builder-helper
 A utility script for Base network developer analytics
 # Variable to trigger new commits
-commit_version = 7
+commit_version = 8
 print(f"Base Builder Helper Version: {commit_version}")
